@@ -16,6 +16,8 @@
 
 ## 데모 영상
 
+[![Video Label](http://img.youtube.com/vi/'h2CNLzqC690'/0.jpg)](https://youtu.be/'h2CNLzqC690')
+
 ------
 ## 작동 방식
 
